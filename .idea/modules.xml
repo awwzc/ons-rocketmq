@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example-consumer/example-consumer.iml" filepath="$PROJECT_DIR$/example-consumer/example-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-messageinterface/example-messageinterface.iml" filepath="$PROJECT_DIR$/example-messageinterface/example-messageinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-producer/example-producer.iml" filepath="$PROJECT_DIR$/example-producer/example-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onsrocketmq.iml" filepath="$PROJECT_DIR$/onsrocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onsrocketmq-core/onsrocketmq-core.iml" filepath="$PROJECT_DIR$/onsrocketmq-core/onsrocketmq-core.iml" />
+    </modules>
+  </component>
+</project>
